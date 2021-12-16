@@ -1,0 +1,23 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(61, 4, 42);
+  color: white;
+}
+
+.Title {
+  background-color: white;
+  color: rgb(61, 4, 42);
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.button {
+  background-color: white;
+  color: rgb(61, 4, 42);
+  border-radius: 10px;
+  padding: 1em;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  font-weight: bold;
+}
